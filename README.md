@@ -9,10 +9,10 @@ Aqui você encontrará uma seleção exclusiva das construções criadas por Jes
 
 ## Principais Construções
  
- - Ciudad Enamorada Apartment Complex
+ - Ciudad Enamorada Apartment Complex: 
 Um complexo de apartamentos charmoso e detalhado, perfeito para uma vida urbana no The Sims 4.
 Assista ao vídeo e veja todos os detalhes desta construção impressionante.
- - Outras Construções The Sims 4
+ - Outras Construções The Sims 4: 
 Explore várias outras casas, edifícios e terrenos criados com muito carinho para você.
 
 ## Como Usar
