@@ -5,7 +5,7 @@ Bem-vindo ao site da Jessi Construction, um espaço dedicado a apresentar constr
 
 ## Sobre o Site
 
-Aqui você encontrará uma seleção exclusiva das construções criadas por Jessi Construction, destacando projetos únicos, detalhados e prontos para download. Navegue pelas categorias e conheça algumas das melhores criações para transformar o seu gameplay!
+Aqui você encontrará uma seleção exclusiva das construções criadas por Jessi Construction, destacando projetos únicos, detalhados e prontos para servirem de inspiração ao seu jogo. Navegue pelas categorias e conheça algumas das melhores criações para transformar a sua gameplay!
 
 ## Principais Construções
  
@@ -16,7 +16,7 @@ Assista ao vídeo e veja todos os detalhes desta construção impressionante.
 Explore várias outras casas, edifícios e terrenos criados com muito carinho para você.
 
 ## Como Usar
-Clique na imagem e será redirecionado ao vídeo desta construção
+Clique na imagem e será redirecionado ao vídeo desta construção.
 
 ## Sobre a Criadora
 Jessi Construction é uma criadora dedicada do universo The Sims 4, reconhecida pela qualidade e criatividade de suas construções.
